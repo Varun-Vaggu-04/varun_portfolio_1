@@ -290,7 +290,7 @@ h6 {
   color: var(--nav-color);
   padding: 15px 10px;
   font-family: var(--nav-font);
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
   display: flex;
   align-items: center;
@@ -599,14 +599,14 @@ section,
 .hero h2 {
   margin: 0;
   color: #040b14;
-  font-size: 85px;
+  font-size: 64px;
   font-weight: 800;
 }
 
 .hero p {
   color: #040b14;
   margin: 5px 0 0 0;
-  font-size: 35px;
+  font-size: 26px;
   font-weight: 500;
 }
 
